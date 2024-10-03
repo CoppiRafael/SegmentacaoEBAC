@@ -1,1 +1,1 @@
-# SegmentacaoEBAC
+https://segmentacaobasicaebac.streamlit.app/
